@@ -1,4 +1,4 @@
-package com.pixbits.pwrcmd;
+package com.pixbits.supercmd.tests;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
